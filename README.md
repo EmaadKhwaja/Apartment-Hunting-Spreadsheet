@@ -1,4 +1,4 @@
-# Apartment-Hunting-Spreadsheet
+# Apartment Hunting Spreadsheet
 
 When looking at apartments, there are many different factors at play which can make it difficult to assess the objective value of a rental. Some landlords will offer included utilities, but perhaps at a slight premium, while another cheaper apartment might require you to pay utilities on your own. Furthermore, factoring the cost of commuting can be an extremely important deciding factor. This spreadsheet allows you to organize all of these factors, and uses the Google Maps API to calculate yearly costs and commute times for each unit. 
 
